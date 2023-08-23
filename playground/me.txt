@@ -1,0 +1,5 @@
+{{#user}}
+Name: Ankit Mukherjee
+Skills: HTML, CSS, JS, Next.js, React, Node.js
+Email: ankitmukherjee0010@gmail.com
+{{/user}}
